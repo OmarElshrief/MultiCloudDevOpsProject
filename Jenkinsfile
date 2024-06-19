@@ -11,7 +11,7 @@ pipeline {
         dockerHubCredentialsID = 'Dockerhub'
         imageName = 'omarelsherif/ivolve-grad'
         OPENSHIFT_SERVER = 'https://console-openshift-console.apps.ocp-training.ivolve-test.com'
-        GIT_REPO = 'https://github.com/tabana1/MultiCloudDevOpsProject'
+        GIT_REPO = 'https://github.com/OmarElshrief/MultiCloudDevOpsProject.git'
         OPENSHIFT_PROJECT = 'omarelshrief'
         OPENSHIFT_CREDENTIALS_ID = 'open-shift-service'
       //  mysonar-token = 'sonarqube'
@@ -37,7 +37,7 @@ pipeline {
         // stage('Checkout') {
         //     steps {
         //         script {
-        //             git branch: 'main', url: 'https://github.com/tabana1/MultiCloudDevOpsProject'
+        //             git branch: 'dev', url: 'https://github.com/OmarElshrief/MultiCloudDevOpsProject.git'
         //         }
         //     }
         // }
