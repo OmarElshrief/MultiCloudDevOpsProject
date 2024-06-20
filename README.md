@@ -1,9 +1,5 @@
 # MultiCloudDevOpsProject
-<<<<<<< HEAD
 iVolve Graduation Project
-omar
-=======
-iVolve Graduation Project  
 
 ## Overview
 
@@ -49,4 +45,3 @@ To get started with this project, follow these steps:
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
->>>>>>> dev
