@@ -29,7 +29,7 @@ This project is a MultiCloud DevOps implementation aimed at automating the softw
 
 ## Documentation
 
-For detailed documentation on how to set up and use this MultiCloud DevOps project, please refer to the [documentation](link_to_documentation).
+For detailed documentation on how to set up and use this MultiCloud DevOps project, please refer to the [documentation](https://github.com/OmarElshrief/MultiCloudDevOpsProject/blob/dev/Documentation.pdf).
 
 ## Getting Started
 
