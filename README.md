@@ -3,7 +3,18 @@ iVolve Graduation Project
 
 ## Overview
 
-This project is a MultiCloud DevOps implementation aimed at automating the software delivery process across multiple cloud platforms. It utilizes various tools and technologies to achieve continuous integration, continuous delivery, infrastructure provisioning, configuration management, and monitoring.
+This project is a MultiCloud DevOps implementation aimed at automating the software delivery process across multiple cloud platforms. It utilizes various tools and technologies to achieve continuous integration, continuous delivery, infrastructure provisioning, configuration management, and monitoring.  
+
+
+## Prerequisites
+
+- AWS Account
+- Terraform installed
+- Ansible installed
+- GitHub Account
+- OpenShift Cluster
+- DockerHub Account
+
 
 ## Features
 
