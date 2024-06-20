@@ -1,0 +1,11 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "sns:GetTopicAttributes",
+      "Resource": "arn:aws:sns:us-east-1:058264470660:topic-name"
+    }
+  ]
+}
+
